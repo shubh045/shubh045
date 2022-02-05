@@ -34,6 +34,11 @@
 
 ## Recent Activity 🪄
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/shubh045/shubh045/pull/1) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
+2. ❌ Closed PR [#2](https://github.com/shubh045/shubh045/pull/2) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
+3. 💪 Opened PR [#2](https://github.com/shubh045/shubh045/pull/2) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
+4. 💪 Opened PR [#1](https://github.com/shubh045/shubh045/pull/1) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
+5. 💪 Opened PR [#8178](https://github.com/girlscript/winter-of-contributing/pull/8178) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 
 ## Connect with me

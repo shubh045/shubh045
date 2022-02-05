@@ -4,9 +4,9 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🌱 I am currently learning **Web Development**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br>
+    🌱 I am currently learning **Web Development**. <br>
+    🎯 My Goal is to Contribute to as many **open source project** as possible. <br>
     ✨ I love to learn **new twchnologies**.
   </td>
 <td >
@@ -16,7 +16,7 @@
 </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#shubh045&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubh045&theme=dracula&hide_border=true)
 
 
 <!--

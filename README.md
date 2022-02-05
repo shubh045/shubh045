@@ -5,7 +5,7 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br>
+    🎓 I am currently pursuing my ```Bachelor's in Computer Science Engineering```. <br>
     🌱 I am currently learning **Web Development**. <br>
     🎯 My Goal is to Contribute to as many **open source project** as possible. <br>
     ✨ I love to learn **new twchnologies**.

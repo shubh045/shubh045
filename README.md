@@ -14,7 +14,7 @@
     ✨ I love to learn new technologies. 
   </td>
 <td >
-    <a href="https://app.daily.dev/Shubh_dev"><img src="https://api.daily.dev/devcards/29970c05a54c451580d7a2ff2a0621f0.png?r=1ez" width="400" alt="Shubham's Dev Card"/></a>
+    <a href="https://app.daily.dev/Shubh_dev"><img src="https://api.daily.dev/devcards/29970c05a54c451580d7a2ff2a0621f0.png?r=q39" width="400" alt="Shubham's Dev Card"/></a>
   </td>  
 </tr>  
 </table>

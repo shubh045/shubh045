@@ -53,6 +53,6 @@
 </p>  
 
 ## Connect with me
-<a href="https://linkedin.com/in/shubham-kumar-1045ba219"> <img src="./images/icons8-linkedin-48.png" alt="linkedin" /></a>
+<a href="https://linkedin.com/in/shubham-1045ba219"> <img src="./images/icons8-linkedin-48.png" alt="linkedin" /></a>
 <a href="https://wa.me/+917696017079"> <img src="./images/icons8-whatsapp-48.png" alt="whatsapp" /></a>
 <a href="mailto:shubh6441@gmail.com"> <img src="./images/icons8-gmail-48.png" alt="whatsapp" /></a>

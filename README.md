@@ -34,11 +34,11 @@
 
 ## Recent Activity 🪄
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/54) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
-2. 💪 Opened PR [#53](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/53) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
-3. 💪 Opened PR [#51](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/51) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
-4. 💪 Opened PR [#46](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/46) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
-5. ❗️ Opened issue [#381](https://github.com/vinayskywalker/Hactoberfest2022/issues/381) in [vinayskywalker/Hactoberfest2022](https://github.com/vinayskywalker/Hactoberfest2022)
+1. 💪 Opened PR [#431](https://github.com/vinayskywalker/Hactoberfest2022/pull/431) in [vinayskywalker/Hactoberfest2022](https://github.com/vinayskywalker/Hactoberfest2022)
+2. 💪 Opened PR [#54](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/54) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+3. 💪 Opened PR [#53](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/53) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+4. 💪 Opened PR [#51](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/51) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+5. 💪 Opened PR [#46](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/46) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
 <!--END_SECTION:activity-->
 
 ## Technologies ⚙️

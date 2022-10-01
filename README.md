@@ -34,11 +34,11 @@
 
 ## Recent Activity 🪄
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/shubh045/shubh045/pull/1) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
-2. ❌ Closed PR [#2](https://github.com/shubh045/shubh045/pull/2) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
-3. 💪 Opened PR [#2](https://github.com/shubh045/shubh045/pull/2) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
-4. 💪 Opened PR [#1](https://github.com/shubh045/shubh045/pull/1) in [shubh045/shubh045](https://github.com/shubh045/shubh045)
-5. 💪 Opened PR [#8178](https://github.com/girlscript/winter-of-contributing/pull/8178) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 💪 Opened PR [#54](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/54) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+2. 💪 Opened PR [#53](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/53) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+3. 💪 Opened PR [#51](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/51) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+4. 💪 Opened PR [#46](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/46) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+5. ❗️ Opened issue [#381](https://github.com/vinayskywalker/Hactoberfest2022/issues/381) in [vinayskywalker/Hactoberfest2022](https://github.com/vinayskywalker/Hactoberfest2022)
 <!--END_SECTION:activity-->
 
 ## Technologies ⚙️

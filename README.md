@@ -34,11 +34,11 @@
 
 ## Recent Activity 🪄
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/mishra10008/Hactoberfest2022/issues/35) in [mishra10008/Hactoberfest2022](https://github.com/mishra10008/Hactoberfest2022)
-2. 💪 Opened PR [#431](https://github.com/vinayskywalker/Hactoberfest2022/pull/431) in [vinayskywalker/Hactoberfest2022](https://github.com/vinayskywalker/Hactoberfest2022)
-3. 💪 Opened PR [#54](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/54) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
-4. 💪 Opened PR [#53](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/53) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
-5. 💪 Opened PR [#51](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/51) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
+1. 🎉 Merged PR [#2](https://github.com/shubh045/My-Portfolio/pull/2) in [shubh045/My-Portfolio](https://github.com/shubh045/My-Portfolio)
+2. 🎉 Merged PR [#1](https://github.com/shubh045/My-Portfolio/pull/1) in [shubh045/My-Portfolio](https://github.com/shubh045/My-Portfolio)
+3. ❗️ Opened issue [#35](https://github.com/mishra10008/Hactoberfest2022/issues/35) in [mishra10008/Hactoberfest2022](https://github.com/mishra10008/Hactoberfest2022)
+4. 💪 Opened PR [#431](https://github.com/vinayskywalker/Hactoberfest2022/pull/431) in [vinayskywalker/Hactoberfest2022](https://github.com/vinayskywalker/Hactoberfest2022)
+5. 💪 Opened PR [#54](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022/pull/54) in [Developer-Student-Clubs-UBa/hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022)
 <!--END_SECTION:activity-->
 
 ## Technologies ⚙️

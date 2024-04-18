@@ -34,9 +34,9 @@
 
 ## Recent Activity 🪄
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/shubh045/My-Portfolio/pull/3) in [shubh045/My-Portfolio](https://github.com/shubh045/My-Portfolio)
-2. 🎉 Merged PR [#2](https://github.com/shubh045/My-Portfolio/pull/2) in [shubh045/My-Portfolio](https://github.com/shubh045/My-Portfolio)
-3. 🎉 Merged PR [#1](https://github.com/shubh045/My-Portfolio/pull/1) in [shubh045/My-Portfolio](https://github.com/shubh045/My-Portfolio)
+1. ❗ Opened issue [#13](https://github.com/covalenthq/goldrush-nft-gallery-ui/issues/13) in [covalenthq/goldrush-nft-gallery-ui](https://github.com/covalenthq/goldrush-nft-gallery-ui)
+2. 💪 Opened PR [#1](https://github.com/shubh045/NFT-ERC1155/pull/1) in [shubh045/NFT-ERC1155](https://github.com/shubh045/NFT-ERC1155)
+3. 🎉 Merged PR [#1](https://github.com/shubh045/mint-nft/pull/1) in [shubh045/mint-nft](https://github.com/shubh045/mint-nft)
 4. ❗️ Opened issue [#35](https://github.com/mishra10008/Hactoberfest2022/issues/35) in [mishra10008/Hactoberfest2022](https://github.com/mishra10008/Hactoberfest2022)
 5. 💪 Opened PR [#431](https://github.com/vinayskywalker/Hactoberfest2022/pull/431) in [vinayskywalker/Hactoberfest2022](https://github.com/vinayskywalker/Hactoberfest2022)
 <!--END_SECTION:activity-->

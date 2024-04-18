@@ -5,13 +5,13 @@
 <tr> 
   <td>
     
-    🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
+    🎓 Final year student pursuing B.E. CSE @ Chandigarh College of Engineering & Technology.
     
-    🌱 I am currently learning Web Development.
+    🌱 Software Engineer Intern @ Redbelly Network.
     
-    🎯 My Goal is to Contribute to as many open source project as possible.
+    🎯 Learning Blockchain technology everyday bit by bit.
     
-    ✨ I love to learn new technologies. 
+    ✨ Always ready to learn and share new facts and technical knowledge. 
   </td>
 <td >
     <a href="https://app.daily.dev/Shubh_dev"><img src="https://api.daily.dev/devcards/29970c05a54c451580d7a2ff2a0621f0.png?r=q39" width="400" alt="Shubham's Dev Card"/></a>
@@ -24,7 +24,7 @@
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh045&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh045&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="shubh045" />
   
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh045&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="shubh045" />
   
@@ -53,6 +53,6 @@
 </p>  
 
 ## Connect with me
-<a href="https://linkedin.com/in/shubham-1045ba219"> <img src="./images/icons8-linkedin-48.png" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/kshubham1/"> <img src="./images/icons8-linkedin-48.png" alt="linkedin" /></a>
 <a href="https://wa.me/+917696017079"> <img src="./images/icons8-whatsapp-48.png" alt="whatsapp" /></a>
-<a href="mailto:shubh6441@gmail.com"> <img src="./images/icons8-gmail-48.png" alt="whatsapp" /></a>
+<a href="mailto:ikshubham1@gmail.com"> <img src="./images/icons8-gmail-48.png" alt="email" /></a>

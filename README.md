@@ -34,10 +34,10 @@
 
 ## Recent Activity 🪄
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/covalenthq/goldrush-nft-gallery-ui/issues/13) in [covalenthq/goldrush-nft-gallery-ui](https://github.com/covalenthq/goldrush-nft-gallery-ui)
-2. 💪 Opened PR [#1](https://github.com/shubh045/NFT-ERC1155/pull/1) in [shubh045/NFT-ERC1155](https://github.com/shubh045/NFT-ERC1155)
-3. 🎉 Merged PR [#1](https://github.com/shubh045/mint-nft/pull/1) in [shubh045/mint-nft](https://github.com/shubh045/mint-nft)
-4. ❗️ Opened issue [#35](https://github.com/mishra10008/Hactoberfest2022/issues/35) in [mishra10008/Hactoberfest2022](https://github.com/mishra10008/Hactoberfest2022)
+1. 🗣 Commented on [#1303](https://github.com/ProjectOpenSea/seaport/issues/1303#issuecomment-2101174188) in [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport)
+2. ❗ Opened issue [#13](https://github.com/covalenthq/goldrush-nft-gallery-ui/issues/13) in [covalenthq/goldrush-nft-gallery-ui](https://github.com/covalenthq/goldrush-nft-gallery-ui)
+3. 💪 Opened PR [#1](https://github.com/shubh045/NFT-ERC1155/pull/1) in [shubh045/NFT-ERC1155](https://github.com/shubh045/NFT-ERC1155)
+4. 🎉 Merged PR [#1](https://github.com/shubh045/mint-nft/pull/1) in [shubh045/mint-nft](https://github.com/shubh045/mint-nft)
 5. 💪 Opened PR [#431](https://github.com/vinayskywalker/Hactoberfest2022/pull/431) in [vinayskywalker/Hactoberfest2022](https://github.com/vinayskywalker/Hactoberfest2022)
 <!--END_SECTION:activity-->
 

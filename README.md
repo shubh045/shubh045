@@ -43,13 +43,15 @@
 
 ## Technologies ⚙️
 <p>
-<img src="./images/icons8-c-programming-48.png" alt="C" />
 <img src="./images/icons8-c++-48.png" alt="CPP" />
 <img src="./images/icons8-html-5-48.png" alt="HTML" />
 <img src="./images/icons8-css3-48.png" alt="CSS" />
-<img src="./images/icons8-bootstrap-48.png" alt="Bootstrap" />
 <img src="./images/icons8-javascript-48.png" alt="Javascript" />
 <img src="./images/icons8-react-40.png" alt="React" />
+<img src="./images/icons8-nodejs-48.png" alt="Nodejs" />
+<img src="./images/icons8-nextjs-48.png" alt="Nextjs" />
+<img src="./images/icons8-solidity-48.png" alt="Solidity" />
+<img src="./images/icons8-ethereum-48.png" alt="Ethereum" />
 </p>  
 
 ## Connect with me

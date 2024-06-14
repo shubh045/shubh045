@@ -5,11 +5,11 @@
 <tr> 
   <td>
     
-    🎓 Final year student pursuing B.E. CSE @ Chandigarh College of Engineering & Technology.
+    🎓 B.E. CSE @ Chandigarh College of Engineering & Technology.
     
-    🌱 Software Engineer Intern @ Redbelly Network.
+    🌱 Software Engineer @ Redbelly Network.
     
-    🎯 Learning Blockchain technology everyday bit by bit.
+    🎯 Learning Blockchain technology everyday.
     
     ✨ Always ready to learn and share new facts and technical knowledge. 
   </td>
